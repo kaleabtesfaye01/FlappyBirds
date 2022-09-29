@@ -1,4 +1,4 @@
-# flappybirds
+# Flappy Birds
 
 # Inspiration
   We were inspired by the retro track of the hackathon and decided to develop a classic game.
